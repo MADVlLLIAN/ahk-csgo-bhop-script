@@ -1,5 +1,7 @@
 # ahk-csgo-bhop-script 
 A simple bhop macro script made in autohotkey to assist and make bhop easier in csgo  
+## Support Me
+Venmo: @connorm97
 ## Instructions   
 **1. Install autohotkey [here](https://www.autohotkey.com/)**    
 **2. After installation, create a blank autohotkey file on your desktop**  
