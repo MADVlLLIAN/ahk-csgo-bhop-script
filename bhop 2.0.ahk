@@ -1,4 +1,4 @@
-﻿*space::
+space::
  Loop
  {
  GetKeyState,state,space,P
